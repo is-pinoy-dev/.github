@@ -11,7 +11,7 @@ Register your own subdomain in minutes — no cost, no gatekeeping, just open so
 [![Subdomains](https://img.shields.io/badge/subdomains-register%20yours-blue?style=flat-square)](https://github.com/is-pinoy-dev/domains)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/is-pinoy-dev/domains/pulls)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/is-pinoy-dev/.github/blob/main/LICENSE)
-[![Community](https://img.shields.io/badge/community-discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+[![Community](https://img.shields.io/badge/community-discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/MVrgEfFExh)
 
 </div>
 
