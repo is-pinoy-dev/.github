@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/is-pinoy-dev/.github/main/assets/banner.png" alt="is-pinoy.dev banner" width="100%" />
+<img src="https://raw.githubusercontent.com/is-pinoy-dev/.github/main/assets/banner.gif" alt="is-pinoy.dev banner" width="100%" />
 
 # 🇵🇭 is-pinoy.dev
 
